@@ -150,14 +150,6 @@ npm run lint      # Executa ESLint
 
 ## 🌐 Deploy
 
-### Vercel (Recomendado)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JezzXL/seu-repositorio)
-
-### Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JezzXL/Portf-lio)
-
 ### GitHub Pages
 
 ```bash
