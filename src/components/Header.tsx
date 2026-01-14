@@ -98,7 +98,7 @@ const Header = ({ currentTheme, onThemeToggle }: HeaderProps) => {
     <div className="absolute inset-0 rounded-full bg-gradient-to-r from-violet-600 to-blue-600 blur-sm opacity-50"></div>
 
     <video
-      src="/Portfolio-dev/video_pessoal.mp4"
+      src="/video_pessoal.mp4"
       autoPlay
       loop
       muted
